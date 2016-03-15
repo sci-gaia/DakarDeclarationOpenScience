@@ -1,6 +1,6 @@
 # “Opening Science in Africa to better open Africa to Science”
 
-Taking note of some of the already existing declarations on Open Access[1](#1), Open Education[2](#2) and Open Science[3](#3),[4](#4), the signatories agree that
+Taking note of some of the already existing declarations on Open Access[1](#Open-Access), Open Education[2](#2) and Open Science[3](#3),[4](#4), the signatories agree that
 
 > “Open science is a means and not an end in itself and it is much more than just open access to publications or data; it includes many aspects and stages of research processes thus enabling full reproducibility and re-usability of scientific results.”[5](#5)
 
@@ -28,8 +28,8 @@ In the last years, the issue of science reproducibility, one of the cornerstones
 
 # References and Footnotes.
 
-  1. [#1] [Berlin Declaration on Open Access]((http://www.berlin9.org/about/declaration/)
-  1. [#2] [Cape Town Declaration on Open Education](http://www.capetowndeclaration.org/read-the-declaration)
-  1. [#3] [Liber Statement on Open Science](http://libereurope.eu/blog/2014/09/30/liber-statement-on-enabling-open-science/)
-  1. [#4] [Rome Declaration by UNESCO on Open Science](http://www.allea.org/Pages/ALL/33/144.bGFuZz1FTkc.html)
-  1. [#5] OECD (2015), “Making Open Science a Reality”, OECD Science Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris. http://dx.doi.org/10.1787/5jrs2f963zs1-en
+  1. [#Open-Access] [Berlin Declaration on Open Access](http://www.berlin9.org/about/declaration/)
+  1. [2] [Cape Town Declaration on Open Education](http://www.capetowndeclaration.org/read-the-declaration)
+  1. [3] [Liber Statement on Open Science](http://libereurope.eu/blog/2014/09/30/liber-statement-on-enabling-open-science/)
+  1. [4] [Rome Declaration by UNESCO on Open Science](http://www.allea.org/Pages/ALL/33/144.bGFuZz1FTkc.html)
+  1. [5] OECD (2015), “Making Open Science a Reality”, OECD Science Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris. http://dx.doi.org/10.1787/5jrs2f963zs1-en
