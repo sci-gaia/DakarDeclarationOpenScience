@@ -1,8 +1,8 @@
 # “Opening Science in Africa to better open Africa to Science”
 
-Taking note of some of the already existing declarations on Open Access[1](#Open-Access), Open Education[2](#2) and Open Science[3](#3),[4](#4), the signatories agree that
+Taking note of some of the already existing declarations on Open Access<a href="#Open-Access">(1)</a>, Open Education<a href="#2">(2)</a> and Open Science<a href="#3">(3)</a>,<a href="#4">(4)</a>, the signatories agree that
 
-> “Open science is a means and not an end in itself and it is much more than just open access to publications or data; it includes many aspects and stages of research processes thus enabling full reproducibility and re-usability of scientific results.”[5](#5)
+> “Open science is a means and not an end in itself and it is much more than just open access to publications or data; it includes many aspects and stages of research processes thus enabling full reproducibility and re-usability of scientific results.”<a href="#5">(5)</a>
 
 In the last years, the issue of science reproducibility, one of the cornerstones of the Scientific Method and a key driver through the Knowledge Path, has indeed attracted an increasing attention worldwide, both inside and outside the research community. Real science reproducibility should include full access to papers and to the whole set of data and computer tools, and Open Science is the only viable approach to turn this vision into a reality.
 
@@ -28,8 +28,9 @@ In the last years, the issue of science reproducibility, one of the cornerstones
 
 # References and Footnotes.
 
-  1. [#Open-Access] [Berlin Declaration on Open Access](http://www.berlin9.org/about/declaration/)
-  1. [2] [Cape Town Declaration on Open Education](http://www.capetowndeclaration.org/read-the-declaration)
-  1. [3] [Liber Statement on Open Science](http://libereurope.eu/blog/2014/09/30/liber-statement-on-enabling-open-science/)
-  1. [4] [Rome Declaration by UNESCO on Open Science](http://www.allea.org/Pages/ALL/33/144.bGFuZz1FTkc.html)
-  1. [5] OECD (2015), “Making Open Science a Reality”, OECD Science Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris. http://dx.doi.org/10.1787/5jrs2f963zs1-en
+<ol>
+  <li id="Open-Access"> [Berlin Declaration on Open Access](http://www.berlin9.org/about/declaration/)</li>
+  <li id="2"> [Cape Town Declaration on Open Education](http://www.capetowndeclaration.org/read-the-declaration)</li>
+  <li id="3"> [Liber Statement on Open Science](http://libereurope.eu/blog/2014/09/30/liber-statement-on-enabling-open-science/) </li>
+  <li id="4"> [Rome Declaration by UNESCO on Open Science](http://www.allea.org/Pages/ALL/33/144.bGFuZz1FTkc.html)</li>
+  <li id="5"> OECD (2015), “Making Open Science a Reality”, OECD Science Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris. [doi:10.1787/5jrs2f963zs1-en](http://dx.doi.org/10.1787/5jrs2f963zs1-en)
