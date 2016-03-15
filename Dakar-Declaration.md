@@ -1,8 +1,8 @@
 # “Opening Science in Africa to better open Africa to Science”
 
-Taking note of some of the already existing declarations on Open Access[1], Open Education[2] and Open Science[3],[4], the signatories agree that
+Taking note of some of the already existing declarations on Open Access[1](#1), Open Education[2](#2) and Open Science[3](#3),[4](#4), the signatories agree that
 
-> “Open science is a means and not an end in itself and it is much more than just open access to publications or data; it includes many aspects and stages of research processes thus enabling full reproducibility and re-usability of scientific results.”[5](#1)
+> “Open science is a means and not an end in itself and it is much more than just open access to publications or data; it includes many aspects and stages of research processes thus enabling full reproducibility and re-usability of scientific results.”[5](#5)
 
 In the last years, the issue of science reproducibility, one of the cornerstones of the Scientific Method and a key driver through the Knowledge Path, has indeed attracted an increasing attention worldwide, both inside and outside the research community. Real science reproducibility should include full access to papers and to the whole set of data and computer tools, and Open Science is the only viable approach to turn this vision into a reality.
 
