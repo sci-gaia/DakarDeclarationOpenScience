@@ -33,4 +33,5 @@ In the last years, the issue of science reproducibility, one of the cornerstones
   <li id="2"> [Cape Town Declaration on Open Education](http://www.capetowndeclaration.org/read-the-declaration)</li>
   <li id="3"> [Liber Statement on Open Science](http://libereurope.eu/blog/2014/09/30/liber-statement-on-enabling-open-science/) </li>
   <li id="4"> [Rome Declaration by UNESCO on Open Science](http://www.allea.org/Pages/ALL/33/144.bGFuZz1FTkc.html)</li>
-  <li id="5"> OECD (2015), “Making Open Science a Reality”, OECD Science Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris. [doi:10.1787/5jrs2f963zs1-en](http://dx.doi.org/10.1787/5jrs2f963zs1-en)
+  <li id="5"> OECD (2015), “Making Open Science a Reality”, OECD Science Technology and Industry Policy Papers, No. 25, OECD Publishing, Paris. [doi:10.1787/5jrs2f963zs1-en](http://dx.doi.org/10.1787/5jrs2f963zs1-en)</li>
+</ol>
