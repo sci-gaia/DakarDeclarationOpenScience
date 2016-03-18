@@ -25,6 +25,10 @@ Signatory of the declaration can be done via a web form at [sci-gaia.eu/dakar-de
 
 Versions of the declaration are assigned individual DOIs. The first version is published at [doi:11623/sci-gaia:1457961379.87](http://dx.doi.org/11623/sci-gaia:1457961379.87), and this should be used as the source when citing the declaration.
 
+## Prior Art
+
+This  declaration is based on previous work and declarations by a diverse set of individuals, projects, institutes _etc_. We try to keep a tab on these, with a brief comment on their relevance in the [prior art](PriorArt.md) file.
+
 ## Treatment of personal data
 
 Personal data submitted via the web form will be stored in a private database, for the express purpose of validating submissions and publishing the name of the signatory. No contact informatio will be shared with anyone. The information in the database will be protected by the members of the Sci-GaIA consortium, and the future treatment of the data will be decided at the end of the project by internal review.
